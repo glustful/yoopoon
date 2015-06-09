@@ -1,0 +1,2 @@
+git push origin 本地分支：远程分支
+git push origin master:android
